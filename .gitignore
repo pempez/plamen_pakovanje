@@ -1,6 +1,11 @@
 
 *.cache
+<<<<<<< HEAD
 *.Cache
 plamen/obj/x86/Debug/plamen.csproj.GenerateResource.Cache
 plamen/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 *.cache
+=======
+plamen/obj/x86/Debug/DesignTimeResolveAssemblyReferences.cache
+>>>>>>> f3591f7005ae7f3ab29e6fd7783cbdab9b0db718
+plamen/obj/x86/Debug/DesignTimeResolveAssemblyReferences.cache
