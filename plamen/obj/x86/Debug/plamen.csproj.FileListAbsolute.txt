@@ -1,0 +1,197 @@
+d:\plamen\plamen\bin\Debug\plamen.exe.config
+d:\plamen\plamen\obj\x86\Debug\plamen.exe
+d:\plamen\plamen\obj\x86\Debug\plamen.pdb
+d:\plamen\plamen\bin\Debug\plamen.exe
+d:\plamen\plamen\bin\Debug\plamen.pdb
+d:\plamen\plamen\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+d:\plamen\plamen\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+d:\plamen\plamen\bin\Debug\CrystalDecisions.ReportSource.dll
+d:\plamen\plamen\bin\Debug\CrystalDecisions.Shared.dll
+d:\plamen\plamen\bin\Debug\CrystalDecisions.Windows.Forms.dll
+d:\plamen\plamen\obj\x86\Debug\plamen.csprojResolveAssemblyReference.cache
+d:\plamen\plamen\obj\x86\Debug\plamen.Form1.resources
+d:\plamen\plamen\obj\x86\Debug\plamen.FormDodavanjeKomitenta.resources
+d:\plamen\plamen\obj\x86\Debug\plamen.FormGotoviProizvodi.resources
+d:\plamen\plamen\obj\x86\Debug\plamen.FormKupci.resources
+d:\plamen\plamen\obj\x86\Debug\plamen.FormMagacin.resources
+d:\plamen\plamen\obj\x86\Debug\plamen.FormNovaSirovina.resources
+d:\plamen\plamen\obj\x86\Debug\plamen.FormNoviNalog.resources
+d:\plamen\plamen\obj\x86\Debug\plamen.FormNoviPP.resources
+d:\plamen\plamen\obj\x86\Debug\plamen.FormNoviProizvod.resources
+d:\plamen\plamen\obj\x86\Debug\plamen.FormPoluproizvodi.resources
+d:\plamen\plamen\obj\x86\Debug\plamen.FormRestoreDB.resources
+d:\plamen\plamen\obj\x86\Debug\plamen.FormRNGP.resources
+d:\plamen\plamen\obj\x86\Debug\plamen.FormRNPP.resources
+d:\plamen\plamen\obj\x86\Debug\plamen.FormSastavnica.resources
+d:\plamen\plamen\obj\x86\Debug\plamen.FormSastavnicaPPSirovina.resources
+d:\plamen\plamen\obj\x86\Debug\plamen.FormSirovine.resources
+d:\plamen\plamen\obj\x86\Debug\plamen.FormSpisakMagacin.resources
+d:\plamen\plamen\obj\x86\Debug\plamen.FormSpisakNaloga.resources
+d:\plamen\plamen\obj\x86\Debug\plamen.FormStanje.resources
+d:\plamen\plamen\obj\x86\Debug\plamen.FormStanjePP.resources
+d:\plamen\plamen\obj\x86\Debug\plamen.Properties.Resources.resources
+d:\plamen\plamen\obj\x86\Debug\plamen.Report.resources
+d:\plamen\plamen\obj\x86\Debug\plamen.csproj.GenerateResource.Cache
+d:\MILAN\plamen\plamen\plamen\bin\Debug\plamen.exe.config
+d:\MILAN\plamen\plamen\plamen\bin\Debug\plamen.exe
+d:\MILAN\plamen\plamen\plamen\bin\Debug\plamen.pdb
+d:\MILAN\plamen\plamen\plamen\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+d:\MILAN\plamen\plamen\plamen\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+d:\MILAN\plamen\plamen\plamen\bin\Debug\CrystalDecisions.ReportSource.dll
+d:\MILAN\plamen\plamen\plamen\bin\Debug\CrystalDecisions.Shared.dll
+d:\MILAN\plamen\plamen\plamen\bin\Debug\CrystalDecisions.Windows.Forms.dll
+d:\MILAN\plamen\plamen\plamen\obj\x86\Debug\plamen.csprojResolveAssemblyReference.cache
+d:\MILAN\plamen\plamen\plamen\obj\x86\Debug\plamen.Form1.resources
+d:\MILAN\plamen\plamen\plamen\obj\x86\Debug\plamen.FormDodavanjeKomitenta.resources
+d:\MILAN\plamen\plamen\plamen\obj\x86\Debug\plamen.FormGotoviProizvodi.resources
+d:\MILAN\plamen\plamen\plamen\obj\x86\Debug\plamen.FormKupci.resources
+d:\MILAN\plamen\plamen\plamen\obj\x86\Debug\plamen.FormMagacin.resources
+d:\MILAN\plamen\plamen\plamen\obj\x86\Debug\plamen.FormNovaSirovina.resources
+d:\MILAN\plamen\plamen\plamen\obj\x86\Debug\plamen.FormNoviNalog.resources
+d:\MILAN\plamen\plamen\plamen\obj\x86\Debug\plamen.FormNoviPP.resources
+d:\MILAN\plamen\plamen\plamen\obj\x86\Debug\plamen.FormNoviProizvod.resources
+d:\MILAN\plamen\plamen\plamen\obj\x86\Debug\plamen.FormPoluproizvodi.resources
+d:\MILAN\plamen\plamen\plamen\obj\x86\Debug\plamen.FormRestoreDB.resources
+d:\MILAN\plamen\plamen\plamen\obj\x86\Debug\plamen.FormRNGP.resources
+d:\MILAN\plamen\plamen\plamen\obj\x86\Debug\plamen.FormRNPP.resources
+d:\MILAN\plamen\plamen\plamen\obj\x86\Debug\plamen.FormSastavnica.resources
+d:\MILAN\plamen\plamen\plamen\obj\x86\Debug\plamen.FormSastavnicaPPSirovina.resources
+d:\MILAN\plamen\plamen\plamen\obj\x86\Debug\plamen.FormSirovine.resources
+d:\MILAN\plamen\plamen\plamen\obj\x86\Debug\plamen.FormSpisakMagacin.resources
+d:\MILAN\plamen\plamen\plamen\obj\x86\Debug\plamen.FormSpisakNaloga.resources
+d:\MILAN\plamen\plamen\plamen\obj\x86\Debug\plamen.FormStanje.resources
+d:\MILAN\plamen\plamen\plamen\obj\x86\Debug\plamen.FormStanjePP.resources
+d:\MILAN\plamen\plamen\plamen\obj\x86\Debug\plamen.Properties.Resources.resources
+d:\MILAN\plamen\plamen\plamen\obj\x86\Debug\plamen.Report.resources
+d:\MILAN\plamen\plamen\plamen\obj\x86\Debug\plamen.csproj.GenerateResource.Cache
+d:\MILAN\plamen\plamen\plamen\obj\x86\Debug\plamen.exe
+d:\MILAN\plamen\plamen\plamen\obj\x86\Debug\plamen.pdb
+D:\MILAN\plamen\plamen\plamen\obj\x86\Debug\plamen.FormPackingList.resources
+d:\MILAN\plamen\plamen\bin\Debug\plamen.exe.config
+d:\MILAN\plamen\plamen\bin\Debug\plamen.exe
+d:\MILAN\plamen\plamen\bin\Debug\plamen.pdb
+d:\MILAN\plamen\plamen\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+d:\MILAN\plamen\plamen\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+d:\MILAN\plamen\plamen\bin\Debug\CrystalDecisions.ReportSource.dll
+d:\MILAN\plamen\plamen\bin\Debug\CrystalDecisions.Shared.dll
+d:\MILAN\plamen\plamen\bin\Debug\CrystalDecisions.Windows.Forms.dll
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.csprojResolveAssemblyReference.cache
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.Form1.resources
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.FormDodavanjeKomitenta.resources
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.FormGotoviProizvodi.resources
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.FormKupci.resources
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.FormMagacin.resources
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.FormNovaSirovina.resources
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.FormNoviNalog.resources
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.FormNoviPP.resources
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.FormNoviProizvod.resources
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.FormPackingList.resources
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.FormPoluproizvodi.resources
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.FormRestoreDB.resources
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.FormRNGP.resources
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.FormRNPP.resources
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.FormSastavnica.resources
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.FormSastavnicaPPSirovina.resources
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.FormSirovine.resources
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.FormSpisakMagacin.resources
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.FormSpisakNaloga.resources
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.FormSpisakPakovanja.resources
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.FormStanje.resources
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.FormStanjePP.resources
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.FormVrstaKutija.resources
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.Properties.Resources.resources
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.Report.resources
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.csproj.GenerateResource.Cache
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.exe
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.pdb
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.FormVrstaPaleta.resources
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.FormOdgovorneOsobe.resources
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.FormGPuKutiji.resources
+d:\MILAN\plamen\plamen\obj\x86\Debug\plamen.FormKutijaNaPaleti.resources
+D:\MILAN\plamen Pakovanje\plamen\plamen\bin\Debug\plamen.exe.config
+D:\MILAN\plamen Pakovanje\plamen\plamen\bin\Debug\plamen.exe
+D:\MILAN\plamen Pakovanje\plamen\plamen\bin\Debug\plamen.pdb
+D:\MILAN\plamen Pakovanje\plamen\plamen\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+D:\MILAN\plamen Pakovanje\plamen\plamen\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\MILAN\plamen Pakovanje\plamen\plamen\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\MILAN\plamen Pakovanje\plamen\plamen\bin\Debug\CrystalDecisions.Shared.dll
+D:\MILAN\plamen Pakovanje\plamen\plamen\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.csprojResolveAssemblyReference.cache
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.Form1.resources
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormDodavanjeKomitenta.resources
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormGotoviProizvodi.resources
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormGPuKutiji.resources
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormKupci.resources
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormKutijaNaPaleti.resources
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormMagacin.resources
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormNovaSirovina.resources
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormNoviNalog.resources
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormNoviPP.resources
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormNoviProizvod.resources
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormOdgovorneOsobe.resources
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormPackingList.resources
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormPoluproizvodi.resources
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormRestoreDB.resources
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormRNGP.resources
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormRNPP.resources
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormSastavnica.resources
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormSastavnicaPPSirovina.resources
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormSirovine.resources
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormSpisakMagacin.resources
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormSpisakNaloga.resources
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormSpisakPakovanja.resources
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormStanje.resources
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormStanjePP.resources
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormVrstaKutija.resources
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormVrstaPaleta.resources
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.Properties.Resources.resources
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.Report.resources
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.csproj.GenerateResource.Cache
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.exe
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.pdb
+D:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormParitet.resources
+x:\MILAN\plamen Pakovanje\plamen\plamen\bin\Debug\plamen.exe.config
+x:\MILAN\plamen Pakovanje\plamen\plamen\bin\Debug\plamen.exe
+x:\MILAN\plamen Pakovanje\plamen\plamen\bin\Debug\plamen.pdb
+x:\MILAN\plamen Pakovanje\plamen\plamen\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+x:\MILAN\plamen Pakovanje\plamen\plamen\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+x:\MILAN\plamen Pakovanje\plamen\plamen\bin\Debug\CrystalDecisions.ReportSource.dll
+x:\MILAN\plamen Pakovanje\plamen\plamen\bin\Debug\CrystalDecisions.Shared.dll
+x:\MILAN\plamen Pakovanje\plamen\plamen\bin\Debug\CrystalDecisions.Windows.Forms.dll
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.csprojResolveAssemblyReference.cache
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.Form1.resources
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormDodavanjeKomitenta.resources
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormGotoviProizvodi.resources
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormGPuKutiji.resources
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormKupci.resources
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormKutijaNaPaleti.resources
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormMagacin.resources
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormNovaSirovina.resources
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormNoviNalog.resources
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormNoviPP.resources
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormNoviProizvod.resources
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormOdgovorneOsobe.resources
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormPackingList.resources
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormParitet.resources
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormPoluproizvodi.resources
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormRestoreDB.resources
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormRNGP.resources
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormRNPP.resources
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormSastavnica.resources
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormSastavnicaPPSirovina.resources
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormSirovine.resources
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormSpisakMagacin.resources
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormSpisakNaloga.resources
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormSpisakPakovanja.resources
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormStanje.resources
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormStanjePP.resources
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormVrstaKutija.resources
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.FormVrstaPaleta.resources
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.Properties.Resources.resources
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.Report.resources
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.csproj.GenerateResource.Cache
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.exe
+x:\MILAN\plamen Pakovanje\plamen\plamen\obj\x86\Debug\plamen.pdb
+d:\MILAN\GitHub\Plamen_pakovanje\plamen_pakovanje\plamen\bin\Debug\plamen.exe.config
+d:\MILAN\GitHub\Plamen_pakovanje\plamen_pakovanje\plamen\obj\x86\Debug\plamen.exe
+d:\MILAN\GitHub\Plamen_pakovanje\plamen_pakovanje\plamen\obj\x86\Debug\plamen.pdb
