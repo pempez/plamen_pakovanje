@@ -200,7 +200,6 @@ d:\MILAN\GITHub\plamen_pakovanje\plamen\obj\x86\Debug\plamen.exe
 d:\MILAN\GITHub\plamen_pakovanje\plamen\obj\x86\Debug\plamen.pdb
 d:\MILAN\GITHub\plamen_pakovanje\plamen\bin\Debug\plamen.exe
 d:\MILAN\GITHub\plamen_pakovanje\plamen\bin\Debug\plamen.pdb
-d:\MILAN\GITHub\plamen_pakovanje\plamen\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
 d:\MILAN\GITHub\plamen_pakovanje\plamen\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
 d:\MILAN\GITHub\plamen_pakovanje\plamen\bin\Debug\CrystalDecisions.ReportSource.dll
 d:\MILAN\GITHub\plamen_pakovanje\plamen\bin\Debug\CrystalDecisions.Shared.dll

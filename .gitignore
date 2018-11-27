@@ -41,3 +41,8 @@ obj/
 [Rr]elease*/
 _ReSharper*/
 [Tt]est[Rr]esult*
+*.cache
+plamen/obj/x86/Debug/plamen.csproj.FileListAbsolute.txt
+*.suo
+plamen/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+*.Cache
